@@ -12,10 +12,3 @@ front-end web developer.<br>I learned from Udacity and some courses.<br>I'm a st
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abood-elsaber&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abood-elsaber&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=abood-elsaber&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
